@@ -5,3 +5,5 @@ I used this [pipe](https://www.aliexpress.com/item/32951219389.html) to insert t
 You can use [this tutorial](https://diyprojects.io/temperature-measurement-ds18b20-arduino-code-compatible-esp8266-esp32-publication-domoticz-http/ for the connections and schematicks.
 
 The code here is used to read the temperature from the MQTT and display it on the screen. the temperature color changes above 50 and above 70 degrees.
+
+![This is an image](TTGO.jpg)
