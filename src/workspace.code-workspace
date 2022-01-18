@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "TTGO_BOILER",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.yaml": "home-assistant"
+		}
+	}
+}
